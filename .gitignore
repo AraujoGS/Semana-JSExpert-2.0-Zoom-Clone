@@ -1,0 +1,6 @@
+public/node_modules
+public/package-lock.json
+server/node_modules
+server/package-lock.json
+peer-server/node_modules
+peer-server/package-lock.json
